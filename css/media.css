@@ -1,0 +1,310 @@
+@media(max-width:575.98px ){
+	/*header starts*/
+	.nav_custom{
+	padding-right: 0;}
+
+	/*header ends*/
+	/*photodiary begins*/
+.photodiary{
+	padding: 90px 0;
+}
+.container2{
+	width: 80%;
+	margin:0 auto;
+}
+h2{
+	
+	font-size: 20px;
+	
+	padding: 22px 0;
+}
+p{
+	
+	font-size: 12px;
+	
+	
+}
+h4{
+	
+	font-size: 12px;
+	
+	padding-top: 25px;
+}
+/*photodiary ends*/
+/*gallery2 begins*/
+.btn_custom{
+	font-size: 11px;
+	margin: 50px auto !important;
+	width: 23%;
+	height: 30px;
+}
+/*gallery2 ends*/
+/*newsletter starts*/
+.newsletter{
+	padding: 40px 0;
+}
+input::placeholder{
+	font-size: 8px;
+}
+/*newsletter ends*/
+/*footer begins*/
+.footer{
+	padding:20px 0;
+}
+.custom_font{
+	font-size: 10px;
+}
+/*footer ends*/
+}
+
+
+
+/*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) { 
+	/*header starts*/
+	.nav_custom{
+	padding-right: 0;}
+
+	/*header ends*/
+	/*photodiary begins*/
+.photodiary{
+	padding: 90px 0;
+}
+.container2{
+	width: 80%;
+	margin:0 auto;
+}
+h2{
+	
+	font-size: 20px;
+	
+	padding: 22px 0;
+}
+p{
+	
+	font-size: 12px;
+	
+	
+}
+h4{
+	
+	font-size: 12px;
+	
+	padding-top: 25px;
+}
+/*photodiary ends*/
+/*gallery2 begins*/
+.btn_custom{
+	font-size: 12px;
+	margin: 60px auto !important;
+	width: 20%;
+	height: 40px;
+}
+/*gallery2 ends*/
+/*newsletter starts*/
+.newsletter{
+	padding: 45px 0;
+}
+input::placeholder{
+	font-size: 10px;
+}
+/*newsletter ends*/
+/*footer begins*/
+.footer{
+	padding:25px 0;
+}
+.custom_font{
+	font-size: 12px;
+}
+/*footer ends*/
+}
+
+
+
+
+/*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) { 
+	/*header starts*/
+	.nav_custom{
+	padding-right: 0 !important;}
+
+	/*header ends*/
+	/*photodiary begins*/
+.photodiary{
+	padding: 90px 0;
+}
+.container2{
+	width: 80%;
+	margin:0 auto;
+}
+h2{
+	
+	font-size: 30px;
+	
+	padding: 32px 0;
+}
+p{
+	
+	font-size: 14px;
+	
+	
+}
+h4{
+	
+	font-size: 14px;
+	
+	padding-top: 40px;
+}
+/*photodiary ends*/
+/*gallery2 begins*/
+.btn_custom{
+	font-size: 14px;
+	margin: 80px auto !important;
+	width: 18%;
+	height: 50px;
+}
+/*gallery2 ends*/
+/*newsletter starts*/
+.newsletter{
+	padding: 50px 0;
+}
+input::placeholder{
+	font-size: 12px;
+}
+/*newsletter ends*/
+/*footer begins*/
+.footer{
+	padding:30px 0;
+}
+.custom_font{
+	font-size: 13px;
+}
+/*footer ends*/
+}
+
+
+
+
+/*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) { 
+	/*header starts*/
+	.nav_custom{
+	padding-right: 70px !important;}
+
+	/*header ends*/
+	/*photodiary begins*/
+.photodiary{
+	padding: 90px 0;
+}
+.container2{
+	width: 80%;
+	margin:0 auto;
+}
+h2{
+	
+	font-size: 30px;
+	
+	padding: 32px 0;
+}
+p{
+	
+	font-size: 14px;
+	
+	
+}
+h4{
+	
+	font-size: 14px;
+	
+	padding-top: 40px;
+}
+/*photodiary ends*/
+/*gallery2 begins*/
+.btn_custom{
+	font-size: 16px;
+	margin: 100px auto !important;
+	width: 16%;
+	height: 60px;
+}
+/*gallery2 ends*/
+/*newsletter starts*/
+.newsletter{
+	padding: 60px 0;
+}
+input::placeholder{
+	font-size: 14px;
+}
+/*newsletter ends*/
+/*footer begins*/
+.footer{
+	padding:35px 0;
+}
+.custom_font{
+	font-size: 14px;
+}
+/*footer ends*/
+}
+
+ 
+
+/*Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) { 
+	/*header starts*/
+	.nav_custom{
+	padding-right: 115px !important;}
+
+	/*header ends*/
+	/*photodiary begins*/
+.photodiary{
+	padding: 90px 0;
+}
+.container2{
+	width: 80%;
+	margin:0 auto;
+}
+h2{
+	
+	font-size: 30px;
+	
+	padding: 32px 0;
+}
+p{
+	
+	font-size: 14px;
+	
+	
+}
+h4{
+	
+	font-size: 14px;
+	
+	padding-top: 40px;
+}
+/*photodiary ends*/
+/*gallery2 begins*/
+.btn_custom{
+	font-size: 16px;
+	margin: 150px auto !important;
+	width: 14%;
+	height: 60px;
+}
+/*gallery2 ends*/
+/*newsletter starts*/
+.newsletter{
+	padding: 75px 0;
+}
+input::placeholder{
+	font-size: 18px;
+}
+/*newsletter ends*/
+/*footer begins*/
+.footer{
+	padding:35px 0;
+}
+.custom_font{
+	font-size: 16px;
+}
+/*footer ends*/
+
+}
+

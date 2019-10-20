@@ -1,0 +1,136 @@
+/*font-family: 'Playfair Display', serif;*/
+/*font-family: 'Ubuntu', sans-serif;*/
+/*font-family: 'Inconsolata', monospace;*/
+/*header starts*/
+.header{
+	padding: 35px 0;
+}
+.container_custom{
+	width: 90%;
+	margin: 0 auto;
+}
+.nav_custom{
+	padding-right: 115px;
+}
+.menu ul li a{
+	font-family: 'Playfair Display', serif;
+	font-weight: normal;
+	font-size: 14px;
+	color: #626262;
+	padding-right: 115px;
+}
+/*.menu ul li:last-child a{
+	padding-right: 0 !important;
+}*/
+/*header ends*/
+/*body starts*/
+.body{}
+.body img{
+	width: 100%;
+}
+/*body ends*/
+/*photodiary begins*/
+.photodiary{
+	padding: 90px 0;
+}
+.container2{
+	width: 80%;
+	margin:0 auto;
+}
+h2{
+	font-family: 'Playfair Display', serif;
+	font-weight: 400;
+	font-size: 30px;
+	color: #626262;
+	padding: 32px 0;
+}
+p{
+	font-family: 'Playfair Display', serif;
+	font-weight: 400;
+	font-size: 14px;
+	color: #626262;
+	
+}
+h4{
+	font-family: 'Ubuntu', sans-serif;
+	font-weight: 300;
+	font-size: 14px;
+	color: #b4ad9e;
+	padding-top: 40px;
+}
+/*photodiary ends*/
+/*gallery starts*/
+.custom_width{
+	width: 100% !important;
+}
+.border_custom{
+	border: none;
+}
+/*gallery ends*/
+/*newsletter starts*/
+.newsletter{
+	background-color: #F0F0F0;
+}
+.newsletter h2{
+	color: #333333;
+}
+.email_width{
+	width: 25% !important;
+	margin:0 auto;
+}
+.email_width2{
+	width: 90% !important;
+
+}
+.email_width3{
+	width: 100% !important;
+	border: 0 !important;
+	background-color: #F0F0F0;
+}
+.btn_width{
+	width: 10% !important;
+}
+.btn_width img{
+	width: 100%;
+}
+.border_custom1{
+	border-bottom: 1px solid black;
+}
+
+/*newsletter ends*/
+/*gallery2 begins*/
+.gallery2{}
+.button_custom{
+	width: 100%;
+}
+.btn_custom{
+	font-family: 'Playfair Display', serif;
+	font-weight: 400;
+	font-size: 20px;
+	color: #626262;
+	background-color: #ffffff;
+	
+
+}
+/*gallery2 ends*/
+/*footer begins*/
+.footer{
+	background-color: #F0F0F0;
+}
+.fright{}
+.fright a{
+	color: black;
+	text-decoration: none;
+}
+.fright ul{
+
+}
+.fright ul li{
+	list-style: none;
+	float: left;
+}
+.fright ul li:hover a{
+	color: grey;
+}
+
+/*footer ends*/
